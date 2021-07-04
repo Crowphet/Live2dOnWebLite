@@ -1,0 +1,18 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "unlitlucy.moc3",
+		"Textures": [
+			"unlitlucy.4096/texture_00.png"
+		],
+		"Physics": "unlitlucy.physics3.json",
+		"DisplayInfo": "unlitlucy.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

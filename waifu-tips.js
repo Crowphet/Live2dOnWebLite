@@ -21,7 +21,7 @@ const live2d_settings = {
     // 基本设置
     'modelUrl': 'model',                        // 存放模型的文件夹路径，末尾不需要斜杠
     // 模型设置
-    'modelName': 'paimon',                      // 默认加载的模型名称，仅在无本地记录的情况下有效
+    'modelName': 'Unlitlucy',                      // 默认加载的模型名称，仅在无本地记录的情况下有效
     'preLoadMotion': true,                      // 是否预载动作数据，只对 model3 模型有效，不预载可以提高 model3 模型的加载速度，但可能导致首次触发动作时卡顿
     'tryWebp': true,                            // 如果浏览器支持 WebP 格式，将优先加载 WebP 格式的贴图，例如默认贴图文件为 klee.8192/texture_00.png，
                                                 // 启用后将优先加载 klee.8192/texture_00.png.webp，文件不存在会自动 fallback
